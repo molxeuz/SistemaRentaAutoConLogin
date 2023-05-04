@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416077478340",
+    "project_id": "sistemarentaauto",
+    "storage_bucket": "sistemarentaauto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416077478340:android:33e41525ece2b192910c91",
+        "android_client_info": {
+          "package_name": "com.myapp.sistemarentaauto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416077478340-u693243tj17d4954730aoqoaltgpe5nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTgm8u-fYwyWEZR2xU8MxdFZyCjuCqbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416077478340-u693243tj17d4954730aoqoaltgpe5nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
